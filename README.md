@@ -5,8 +5,11 @@ Welcome to the Text-Based Chatbot project! This project implements a simple text
 
 **Features**
 Natural Language Processing (NLP): Utilizes NLTK for basic natural language processing tasks such as tokenization.
+
 Response Generation: Provides responses based on predefined patterns and keywords.
+
 Greeting Detection: Recognizes greetings from users and responds accordingly.
+
 Customizable Responses: Responses are stored in a dictionary, making it easy to customize or extend the chatbot's capabilities.
 
 **Usage**
